@@ -14,6 +14,6 @@
 
 <h3 align="center">✨ Analysis ✨</h3>
 <div align="center">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmindev&show_icons=true&locale=en&layout=compact" alt="kimdev"/>
-    <img height=100 src="https://github-readme-stats.vercel.app/api?username=kmindev&show_icons=true&locale=en&theme=radical" alt="kimdev"/>
+    <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmindev&show_icons=true&locale=en&layout=compact" alt="kimdev"/>
+    <img height=170 src="https://github-readme-stats.vercel.app/api?username=kmindev&show_icons=true&locale=en&theme=radical" alt="kimdev"/>
 </div>
