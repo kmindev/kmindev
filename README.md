@@ -5,7 +5,6 @@
 <h3 align="center">🔨 Tech Stack 🔨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-FF160B?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
 </div>
