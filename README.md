@@ -41,8 +41,8 @@
 
 ### 📚 Solved.ac
 <div align="center">
-  <a href="https://solved.ac/백준아이디">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디" alt="Solved.ac 프로필" />
+  <a href="https://solved.ac/rudals7333">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rudals7333" alt="Solved.ac 프로필" />
   </a>
 </div>
 
