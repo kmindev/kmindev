@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6DB33F&height=200&section=header&text=kimdev's%20GitHub&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</div>
-
-<br/>
-
-<div align="center">
   <h3>🙋‍♂️ Backend Developer | Java & Spring </h3>
 </div>
 
@@ -47,8 +41,4 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6DB33F&height=150&section=footer"/>
-</div>
 
